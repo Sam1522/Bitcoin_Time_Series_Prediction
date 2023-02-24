@@ -1,5 +1,7 @@
 # Bitcoin_Time_Series_Prediction
+
 Bitcoin Price Prediction
+
 Despite its popularity, the Bitcoin market is relatively new and has been subject to high volatility. There is a need to understand the factors that drive the price of Bitcoin, and to make predictions about future price movements. The information from our analysis will help potential investors to make sound decisions in regards to buying and selling of bitcoin.
 Main Objective
 Our main objective is to predict the price of bitcoin.
