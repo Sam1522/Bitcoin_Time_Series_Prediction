@@ -12,7 +12,7 @@ Identify the features that have an impact on bitcoin.
 Identify the highest volume recorded by Bitcoin (USD).
 Identify the lowest volume recorded by Bitcoin (USD).
 
-THe following were the steps followed in this exercise
+The following were the steps followed in this exercise
 Web Scraping : This was done using beautiful soup
 Exploratory data analysis : univariate, bivariate and multivariate analysis on the data variables.
 Feature Scaling
