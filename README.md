@@ -18,6 +18,6 @@ Exploratory data analysis : univariate, bivariate and multivariate analysis on t
 Feature Scaling
 Modeling
 Hyperparameter Tuning
-Challenging our model
+Challenging the model
 Conclusions and recommendations
 Deployment
